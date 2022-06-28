@@ -1,0 +1,1 @@
+greet = "Hello beautiful people!"
