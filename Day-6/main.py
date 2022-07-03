@@ -6,3 +6,8 @@ def my_function():
 
 ##Calling the Function
 my_function()
+
+num = 5
+while num>0:
+    print(num)
+    num -= 1
